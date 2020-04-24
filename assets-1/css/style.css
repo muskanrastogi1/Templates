@@ -39,15 +39,12 @@ html {
  */
 body {
   margin: 0;
-  font-family: 'Merriweather', serif;
 }
 /**
  * Render the `main` element consistently in IE.
  */
 main {
   display: block;
-  
-
 }
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -7883,8 +7880,7 @@ a.ui-button:active,
 .header_bottom {
   position: relative;
   display: flex;
-  align-items:center;
-  
+  align-items: center;
 }
 .header_menu {
   display: flex;
@@ -8312,7 +8308,7 @@ a.ui-button:active,
     padding-bottom: 40px;
   }
   .header_bottom {
-    margin-top: 5px;
+    margin-top: 40px;
   }
 }
 @media (min-width: 1200px) {
@@ -8437,7 +8433,7 @@ a.ui-button:active,
     background-color: var(--color-white);
   }
   .header_nav_mega_menu_item:not(:first-child) {
-    margin-top: 1px;
+    margin-top: 10px;
   }
   .header_cart {
     margin-left: auto;
@@ -9508,7 +9504,7 @@ a.ui-button:active,
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url('../img/homepage.JPG');
+  background-image: url('../img/bg-1.jpg');
   background-color: var(--color-grey1);
 }
 .section-hero_heading_title {
@@ -11480,4 +11476,3 @@ a.ui-button:active,
     right: 70px;
   }
 }
-
