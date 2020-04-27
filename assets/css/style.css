@@ -8524,7 +8524,7 @@ a.ui-button:active,
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.icon.is-apple:before {
+.icon.heading_title:before {
   content: "\e900";
 }
 .icon.is-500px:before {
@@ -9510,7 +9510,6 @@ a.ui-button:active,
   background-color: var(--color-grey1);
 }
 .section-hero_heading_title {
-  font-family: var(--font-secondary);
   font-weight: 700;
 }
 @media (max-width: 767px) {
