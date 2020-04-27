@@ -39,7 +39,7 @@ html {
  */
 body {
   margin: 0;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat'
 }
 /**
  * Render the `main` element consistently in IE.
@@ -8464,7 +8464,6 @@ a.ui-button:active,
 }
 .heading_title {
   margin-bottom: 0;
-  font-family: var(--font-secondary);
   font-weight: 700;
 }
 .heading_text {
@@ -8472,7 +8471,6 @@ a.ui-button:active,
 }
 .headline_title {
   margin-bottom: 0;
-  font-family: var(--font-secondary);
   font-weight: 700;
 }
 .headline_summary {
