@@ -9506,7 +9506,7 @@ a.ui-button:active,
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url('../img/homepage.jpg');
+  background-image: url('../img/mainpage.jpg');
   background-color: var(--color-grey1);
 }
 .section-hero_heading_title {
